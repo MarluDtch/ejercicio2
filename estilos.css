@@ -1,0 +1,44 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img-central {
+    width: 350px;
+    margin: 10px auto;
+    display: block;
+}
+h1 {
+    letter-spacing: 0.4cm;
+    text-align: center;
+    color: #bb5397;
+}
+h2 {
+    letter-spacing: 0.2cm;
+    text-align: left;
+    color: #bb5397;
+    font-size: 100%;
+}
+
+.img-pop{
+    float: right;
+    margin-left: 20px;
+    width: 25%;  
+}
+p{
+    font-size: 0.3cm;
+    color: #4597d4;
+    text-align: justify;
+    line-height: 13pt;
+}
+.img-caribbean{
+    float: left;
+    width: 25%;
+    margin-right: 16px;
+}
+.img-animal{
+    float: right;
+    width: 25%;
+    margin-left: 20px;
+}
+.img-MM{
+    width: 100%;
+}
